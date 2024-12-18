@@ -54,6 +54,13 @@ const FrontEnd = () => {
           <div className="skills-data">
             <IoCheckboxOutline className="skills-icon" />
             <div>
+              <h3 className="skills-name">Dart</h3>
+              <span className="skills-level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills-data">
+            <IoCheckboxOutline className="skills-icon" />
+            <div>
               <h3 className="skills-name">Rest Api</h3>
               <span className="skills-level">Intermediate</span>
             </div>
